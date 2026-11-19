@@ -10,7 +10,7 @@
 | João Miguel Barrionuevo Mantovani | 576397 |
 | Edson Almeida | 575257 |
 
-**Vídeo técnico (YouTube, não listado):** [COLE AQUI O LINK]
+**Vídeo técnico (YouTube, não listado): https://www.youtube.com/watch?v=cNvYKrLMnIk
 
 > Este repositório contém a contribuição de SERS. Se for compartilhado com outras disciplinas da GS, tudo o que é de SERS está nesta pasta e identificado por "energia".
 
