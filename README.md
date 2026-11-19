@@ -86,11 +86,6 @@ Depois abra `dashboard/index.html` no navegador. Os três controles no topo (tar
 
 Regras de alerta: bateria < 20% (alta); luminária offline (alta); presença sem resposta do LED (alta); consumo > 120% da média (média); geração solar < 70% da previsão (média).
 
-## Diagrama de funcionamento
-
-![Diagrama conceitual](docs/figuras/diagrama_funcionamento.png)
-
-Fonte de energia (painéis, baterias, rede de apoio) → luminárias LED com sensores de presença e luminosidade → controlador (30% ou 100%, nunca abaixo do mínimo de segurança) → módulo IoT que registra energia solar, da rede, bateria, modo e falhas → banco de dados ou arquivo de simulação → dashboard com os indicadores e alertas.
 
 ## Dados e fontes
 
