@@ -118,4 +118,4 @@ Proposta: uma luminária em falha ou offline vira uma ocorrência de iluminaçã
 
 ## Uso de IA
 
-O Claude (Anthropic) foi usado como apoio para rascunhar o relatório, o código, os testes e este README. [CONFIRME: quem do grupo executou os scripts, conferiu os cálculos e leu o código.] As premissas, a escolha da praça e a recomendação são decisões do grupo.
+O Claude (Anthropic) foi usado como apoio para rascunhar o relatório, o código, os testes e este README. As premissas, a escolha da praça e a recomendação são decisões do grupo.
