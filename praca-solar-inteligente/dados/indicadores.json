@@ -1,0 +1,68 @@
+{
+  "cenarios": {
+    "A": {
+      "consumo_kwh_mes": 720.0,
+      "rede_kwh_mes": 720.0,
+      "solar_kwh_mes": 0.0,
+      "custo_rede_rs_mes": 612.0,
+      "economia_energetica_pct": 0.0,
+      "participacao_renovavel_pct": 0.0,
+      "emissoes_evitadas_kg_mes": 0.0
+    },
+    "B": {
+      "consumo_kwh_mes": 201.6,
+      "rede_kwh_mes": 201.6,
+      "solar_kwh_mes": 0.0,
+      "custo_rede_rs_mes": 171.35999999999999,
+      "economia_energetica_pct": 72.0,
+      "participacao_renovavel_pct": 0.0,
+      "emissoes_evitadas_kg_mes": 19.958399999999997
+    },
+    "C": {
+      "consumo_kwh_mes": 201.6,
+      "rede_kwh_mes": 40.31999999999999,
+      "solar_kwh_mes": 161.28,
+      "custo_rede_rs_mes": 34.27199999999999,
+      "economia_energetica_pct": 72.0,
+      "participacao_renovavel_pct": 80.0,
+      "emissoes_evitadas_kg_mes": 26.16768
+    },
+    "extra_C_sobre_B_rs_mes": 137.088,
+    "extra_C_sobre_B_rs_ano": 1645.056,
+    "limite_investimento_extra_rs": {
+      "5_anos": 8225.28,
+      "10_anos": 16450.56,
+      "25_anos": 41126.4
+    }
+  },
+  "dimensionamento": {
+    "energia_solar_desejada_kwh_mes": 161.28,
+    "potencia_necessaria_kwp": 1.5928888888888888,
+    "modulos": 4,
+    "potencia_instalada_kwp": 1.8,
+    "geracao_estimada_kwh_mes": 182.25,
+    "margem_sobre_meta_pct": 13.002232142857139,
+    "carga_kwh_noite": 6.72,
+    "bateria_kwh": 12.6
+  },
+  "matriz_decisao": {
+    "A": 2.3,
+    "B": 3.25,
+    "C": 4.0
+  },
+  "sensibilidade": {
+    "Conservador": {
+      "economia_C_sobre_A_rs_mes": 435.45599999999996,
+      "extra_C_sobre_B_rs_ano": 1233.792
+    },
+    "Base": {
+      "economia_C_sobre_A_rs_mes": 577.7280000000001,
+      "extra_C_sobre_B_rs_ano": 1645.056
+    },
+    "Favorável": {
+      "economia_C_sobre_A_rs_mes": 712.0799999999999,
+      "extra_C_sobre_B_rs_ano": 1805.7599999999998
+    }
+  },
+  "aviso": "Projeções condicionadas às premissas de dados/parametros.json; não são resultados garantidos."
+}

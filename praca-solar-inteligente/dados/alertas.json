@@ -1,0 +1,781 @@
+{
+  "resumo": {
+    "periodo": [
+      "2026-10-01",
+      "2026-10-30"
+    ],
+    "participacao_renovavel_medida_pct": 75.69430857165558,
+    "disponibilidade_pct": 99.0,
+    "bateria_media_ultimo_dia_pct": 80.22631578947369,
+    "ultimo_dia": [
+      {
+        "id": "L01",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 72.5
+      },
+      {
+        "id": "L02",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 81.7
+      },
+      {
+        "id": "L03",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 76.2
+      },
+      {
+        "id": "L04",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 84.8
+      },
+      {
+        "id": "L05",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 69.9
+      },
+      {
+        "id": "L06",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 74.5
+      },
+      {
+        "id": "L07",
+        "status": "offline",
+        "modo": "economico",
+        "bateria": 79.9
+      },
+      {
+        "id": "L08",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 77.1
+      },
+      {
+        "id": "L09",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 83.1
+      },
+      {
+        "id": "L10",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 84.5
+      },
+      {
+        "id": "L11",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 80.2
+      },
+      {
+        "id": "L12",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 82.4
+      },
+      {
+        "id": "L13",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 86.7
+      },
+      {
+        "id": "L14",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 84.6
+      },
+      {
+        "id": "L15",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 78.1
+      },
+      {
+        "id": "L16",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 85.2
+      },
+      {
+        "id": "L17",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 74.4
+      },
+      {
+        "id": "L18",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 86.8
+      },
+      {
+        "id": "L19",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 77.7
+      },
+      {
+        "id": "L20",
+        "status": "ativo",
+        "modo": "economico",
+        "bateria": 83.9
+      }
+    ],
+    "consumo_medio_luminaria_kwh_noite": 0.3373747474747475,
+    "alertas_total": 92
+  },
+  "alertas": [
+    {
+      "data": "2026-10-08",
+      "luminaria": "L01",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L02",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L03",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L04",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L05",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L06",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L07",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L08",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L09",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L10",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L11",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L12",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L13",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L14",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L15",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L16",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L17",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L18",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L19",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-08",
+      "luminaria": "L20",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L01",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L02",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L03",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L04",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L05",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L06",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L07",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L08",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L09",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L10",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L11",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L12",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L13",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L14",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L15",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L16",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L17",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L18",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L19",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-09",
+      "luminaria": "L20",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L01",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L02",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L03",
+      "regra": "Bateria baixa",
+      "gravidade": "Alta",
+      "acao": "Verificar geração e autonomia"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L03",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L04",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L05",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L06",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L07",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L08",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L09",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L10",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L11",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L12",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L13",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L14",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L15",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L16",
+      "regra": "Bateria baixa",
+      "gravidade": "Alta",
+      "acao": "Verificar geração e autonomia"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L16",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L17",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L18",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L19",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-10",
+      "luminaria": "L20",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-11",
+      "luminaria": "L03",
+      "regra": "Bateria baixa",
+      "gravidade": "Alta",
+      "acao": "Verificar geração e autonomia"
+    },
+    {
+      "data": "2026-10-11",
+      "luminaria": "L16",
+      "regra": "Bateria baixa",
+      "gravidade": "Alta",
+      "acao": "Verificar geração e autonomia"
+    },
+    {
+      "data": "2026-10-14",
+      "luminaria": "L04",
+      "regra": "Consumo acima do esperado",
+      "gravidade": "Média",
+      "acao": "Investigar sensor ou carga"
+    },
+    {
+      "data": "2026-10-15",
+      "luminaria": "L04",
+      "regra": "Consumo acima do esperado",
+      "gravidade": "Média",
+      "acao": "Investigar sensor ou carga"
+    },
+    {
+      "data": "2026-10-19",
+      "luminaria": "L13",
+      "regra": "Presença sem resposta",
+      "gravidade": "Alta",
+      "acao": "Verificar luminária e controlador"
+    },
+    {
+      "data": "2026-10-20",
+      "luminaria": "L13",
+      "regra": "Presença sem resposta",
+      "gravidade": "Alta",
+      "acao": "Verificar luminária e controlador"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L01",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L02",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L03",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L04",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L05",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L06",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L07",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L08",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L09",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L10",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L11",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L12",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L13",
+      "regra": "Presença sem resposta",
+      "gravidade": "Alta",
+      "acao": "Verificar luminária e controlador"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L13",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L14",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L15",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L16",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L17",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L18",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L19",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-21",
+      "luminaria": "L20",
+      "regra": "Baixa geração solar",
+      "gravidade": "Média",
+      "acao": "Verificar sujeira, sombra ou falha"
+    },
+    {
+      "data": "2026-10-28",
+      "luminaria": "L07",
+      "regra": "Luminária offline",
+      "gravidade": "Alta",
+      "acao": "Abrir chamado de manutenção"
+    },
+    {
+      "data": "2026-10-29",
+      "luminaria": "L07",
+      "regra": "Luminária offline",
+      "gravidade": "Alta",
+      "acao": "Abrir chamado de manutenção"
+    },
+    {
+      "data": "2026-10-30",
+      "luminaria": "L07",
+      "regra": "Luminária offline",
+      "gravidade": "Alta",
+      "acao": "Abrir chamado de manutenção"
+    }
+  ]
+}
